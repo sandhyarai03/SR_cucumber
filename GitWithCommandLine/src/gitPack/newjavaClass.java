@@ -19,5 +19,9 @@ public class newjavaClass {
 		
 		System.out.println(c);
 	System.out.println(d);
-
+	
+	public void tc1()
+	{
+		//testcase1
+	}
 }
