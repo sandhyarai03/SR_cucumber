@@ -23,5 +23,8 @@ public class newjavaClass {
 	public void tc1()
 	{
 		//testcase1
+		//testcase2
+		//testcase3
+		
 	}
 }
