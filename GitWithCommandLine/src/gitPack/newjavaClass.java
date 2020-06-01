@@ -18,5 +18,6 @@ public class newjavaClass {
 		int c= a+b;
 		
 		System.out.println(c);
+	System.out.println(d);
 
 }
